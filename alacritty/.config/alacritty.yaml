@@ -7,7 +7,7 @@ live_config_reload: true
 # pelo Alacritty, mas você pode usá-lo para incluir outras configurações ou temas.
 # Caso queira usar um tema "Catppuccin Mocha", você deve converter o arquivo TOML para YAML.
 # import:
-#   - "~/.config/alacritty/catppuccin-mocha.toml"
+#   - "~/.config/alacritty/catppuccin-mocha.yaml"
 
 # Configuração de variáveis de ambiente.
 # Definindo a variável TERM como "xterm-256color" para garantir compatibilidade com 
